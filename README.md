@@ -16,6 +16,7 @@ My solutions and programs on Euler Project Problem
 # 问题列表
 
 ## Problem 47(Python, cost = 0.196s) ★★★★★
+### Answer: 134043
 这是一个非常朴素的题目，题目让我们找出最小且连续的4个正整数，使得每个正整数都恰有4个互异的正因子。
 
 思路也非常明确，直接打表搜索1-MAX(MAX为人为规定上界)内的正整数互异正因子个数，然后再跑一遍全列表，判断连续4个数是否满足题设。
@@ -23,3 +24,4 @@ My solutions and programs on Euler Project Problem
 其实还有可以提升的地方，比如在寻找连续4个数时，用KMP算法的思想会更快一些，不过也已经达到了设定最高要求，有兴趣的话可以改进一下。
 
 ## Problem 55(Python, cost = 0.0927s) ★★★★★
+### Answer = 249
