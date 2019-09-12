@@ -15,6 +15,9 @@ My solutions and programs on Euler Project Problem
 
 # 问题列表
 
+## Problem 44(Python, cost = 38.7s) ★★★
+### Answer: 5482660
+
 ## Problem 47(Python, cost = 0.196s) ★★★★★
 ### Answer: 134043
 这是一个非常朴素的题目，题目让我们找出最小且连续的4个正整数，使得每个正整数都恰有4个互异的正因子。
