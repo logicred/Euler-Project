@@ -23,5 +23,8 @@ My solutions and programs on Euler Project Problem
 
 其实还有可以提升的地方，比如在寻找连续4个数时，用KMP算法的思想会更快一些，不过也已经达到了设定最高要求，有兴趣的话可以改进一下。
 
+## Problem 53(Python, cost = 0.0152s) ★★★★★
+### Answer: 4075
+
 ## Problem 55(Python, cost = 0.0927s) ★★★★★
 ### Answer = 249
