@@ -15,6 +15,11 @@ My solutions and programs on Euler Project Problem
 
 # 问题列表
 
+## Problem 1(Python, cost < 0.001s) ★★★★★
+### Answer: 233168
+
+统计1000以内3或5的倍数之和，直接搜索一遍1000以内的数即可，非常简单
+
 ## Problem 22(Python, cost = 0.0289s) ★★★★★
 ### Answer: 871198282
 
