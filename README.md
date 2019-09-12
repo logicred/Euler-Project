@@ -15,6 +15,9 @@ My solutions and programs on Euler Project Problem
 
 # 问题列表
 
+## Problem 22(Python, cost = 0.0289s) ★★★★★
+### Answer: 871198282
+
 ## Problem 29(Python, cost = 0.0110s) ★★★★★
 ### Answer: 9183
 
