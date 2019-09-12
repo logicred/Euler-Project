@@ -35,5 +35,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 76(Python, cost = 118s) ★★
 ### Answer = 190569291
 
+## Problem 92(Python, cost = 58.1s) ★★★
+### Answer = 8581147
+
 ## Problem 97(Python, cost = 0.454s) ★★★★★
 ### Answer = 8739992577
