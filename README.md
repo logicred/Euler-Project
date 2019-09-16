@@ -50,6 +50,10 @@ My solutions and programs on Euler Project Problem
 ## Problem 53(Python, cost = 0.0152s) ★★★★★
 ### Answer: 4075
 
+计算组合数的关键在于计算，如果单纯采用计算阶乘的方法，显然是十分复杂的，而且每个数都要计算一遍，会占用很多时间。
+在这里我们采用杨辉三角来递推组合数，不难证明，杨辉三角第N行从左数第M个对应于组合数C（N，M），而C（N，M）= C（N - 1, M）+ C（N - 1, M - 1）
+那么很快就可以计算出来，再根据题设条件计数就好。
+
 ## Problem 55(Python, cost = 0.0927s) ★★★★★
 ### Answer = 249
 
