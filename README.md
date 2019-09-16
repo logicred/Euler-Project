@@ -28,6 +28,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 29(Python, cost = 0.0110s) ★★★★★
 ### Answer: 9183
 
+根据python集合（set）元素互异的特性，直接计算所有值并置于同一集合中，取集合大小即为答案
+
 ## Problem 35(Python, cost = 8.84s) ★★★★
 ### Answer: 55
 
