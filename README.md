@@ -23,6 +23,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 22(Python, cost = 0.0289s) ★★★★★
 ### Answer: 871198282
 
+输入文件，统计每个名字根据题设所得分数，最后累和即可
+
 ## Problem 29(Python, cost = 0.0110s) ★★★★★
 ### Answer: 9183
 
