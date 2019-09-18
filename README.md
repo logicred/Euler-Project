@@ -25,6 +25,11 @@ My solutions and programs on Euler Project Problem
 
 四百万以下的偶斐波那契数求和，直接采用递推公式计算斐波那契数（偶数每3个数出现一次），累和即可
 
+## Problem 7(Python, cost = 0.569s) ★★★★★
+### Answer: 104743
+
+求第10001个质数，直接挨个搜寻，直到找到10001个为止
+
 ## Problem 22(Python, cost = 0.0289s) ★★★★★
 ### Answer: 871198282
 
