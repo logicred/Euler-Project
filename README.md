@@ -25,6 +25,11 @@ My solutions and programs on Euler Project Problem
 
 四百万以下的偶斐波那契数求和，直接采用递推公式计算斐波那契数（偶数每3个数出现一次），累和即可
 
+## Problem 3(Python, cost = 0.017s) ★★★★★
+### Answer: 6857
+
+求一个大整数的最大质因子，基本想法是从小到大用各个质数除这个大整数，直到除不尽为止，当商为1时，即为最大正整数。
+
 ## Problem 7(Python, cost = 0.569s) ★★★★★
 ### Answer: 104743
 
