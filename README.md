@@ -35,6 +35,11 @@ My solutions and programs on Euler Project Problem
 
 求第10001个质数，直接挨个搜寻，直到找到10001个为止
 
+## Problem 10(Python, cost = 1.69s) ★★★★
+### Answer: 142913828922
+
+打表求质数（一个个判断很慢），然后一个个累和即可
+
 ## Problem 22(Python, cost = 0.0289s) ★★★★★
 ### Answer: 871198282
 
