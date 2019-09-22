@@ -40,6 +40,13 @@ My solutions and programs on Euler Project Problem
 
 求第10001个质数，直接挨个搜寻，直到找到10001个为止
 
+
+## Problem 9(Python, cost = 0.222s) ★★★★★
+### Answer: 31875000
+
+寻找一个直角三角形，使得其周长之和为1000.直接搜索未免范围太大，所以采用“两边之和大于第三边，两边之差小于第三边”进行约束，可以得到比较理想的搜索域。
+然后直接暴力搜索即可。
+
 ## Problem 10(Python, cost = 1.69s) ★★★★
 ### Answer: 142913828922
 
