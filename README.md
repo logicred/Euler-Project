@@ -86,6 +86,11 @@ My solutions and programs on Euler Project Problem
 ## Problem 44(Python, cost = 38.7s) ★★★
 ### Answer: 5482660
 
+## Problem 46(Python, cost = 0.095s) ★★★★★
+### Answer: 5777
+
+题目要求找出最小的奇合数n，使得其不能写成n = p + 2 * p ^ 2(p为素数)的形式。显然，在对素数打表的过程中，我们可以一次标注出素数和奇合数来。通过观察可以发现，对于每个奇素数n，使得该式成立的p必小于n的算术平方根。在前述条件下直接依次搜索即可。
+
 ## Problem 47(Python, cost = 0.196s) ★★★★★
 ### Answer: 134043
 这是一个非常朴素的题目，题目让我们找出最小且连续的4个正整数，使得每个正整数都恰有4个互异的正因子。
