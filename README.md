@@ -72,6 +72,11 @@ My solutions and programs on Euler Project Problem
 
 根据python集合（set）元素互异的特性，直接计算所有值并置于同一集合中，取集合大小即为答案
 
+## Problem 31(Python, cost = 0.050s) ★★★★★
+### Answer: 73682
+
+问题也即求解不定方程:x1 + 2x2 + 5x3 + 10x4 + 20x5 + 50x6 + 100x7 = 200 的整数解，简单想法用贪心/递归都可以实现。
+
 ## Problem 35(Python, cost = 8.84s) ★★★★
 ### Answer: 55
 
