@@ -91,6 +91,11 @@ My solutions and programs on Euler Project Problem
 ## Problem 44(Python, cost = 38.7s) ★★★
 ### Answer: 5482660
 
+## Problem 45(Python, cost = 0.056s) ★★★★★
+### Answer: 1533776805
+
+这题的目标是找到一个大于40755的数X,使其满足X = N * (N - 1) / 2 = M * (3 * M - 1) / 2 = L * (2 * L - 1).单纯一个个算出来比对是不靠谱的，我们显然可以发现，最后一种表示方式增长最快(分布最稀疏)，而且令L = 2 * N就可以发现是相同的。因此我们将它作为标准，代入方程，反解出M,看是不是正整数即可。
+
 ## Problem 46(Python, cost = 0.095s) ★★★★★
 ### Answer: 5777
 
