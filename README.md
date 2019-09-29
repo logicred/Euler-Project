@@ -72,6 +72,11 @@ My solutions and programs on Euler Project Problem
 
 输入文件，统计每个名字根据题设所得分数，最后累和即可
 
+## Problem 27(Python, cost = 0.873s) ★★★★★
+### Answer: -59231
+
+暴力求解即可
+
 ## Problem 29(Python, cost = 0.0110s) ★★★★★
 ### Answer: 9183
 
