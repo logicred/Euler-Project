@@ -78,6 +78,11 @@ My solutions and programs on Euler Project Problem
 
 首先考虑上方和左方的边结点，显然只有一条路可以走，所以标记为1；接下来考虑中间的节点，可以发现到达其路径条数为其上方和左方节点路径数之和，所以通过简单的递推就可以求解。
 
+## Problem 18(Python, cost = 0.017s) ★★★★★
+### Answer: 1074
+
+金字塔内寻找路径和最大的路径，采用DFS简单搜索即可得出结果。
+
 ## Problem 21(Python, cost = 0.138s) ★★★★★
 ### Answer: 36126
 
