@@ -98,6 +98,11 @@ My solutions and programs on Euler Project Problem
 
 暴力求解即可
 
+## Problem 28(Python, cost < 0.001s) ★★★★★
+### Answer: 665168997
+
+数列求和问题，简单暴力求解即可
+
 ## Problem 29(Python, cost = 0.0110s) ★★★★★
 ### Answer: 9183
 
