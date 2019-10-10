@@ -165,6 +165,11 @@ My solutions and programs on Euler Project Problem
 ## Problem 76(Python, cost = 118s) ★★
 ### Answer = 190569291
 
+## Problem 87(Python, cost = 1.701s) ★★★★
+### Answer = 109743
+
+本题目的在于求解50 000 000以下一类数的个数，这类数能够写成a = x ^ 2 + y ^ 3 + z ^ 4(x, y, z均为质数)的形式，一个简单的想法就是x, y, z必不超过√50 000 000,所以简单求解其中的质数，进行穷举即可。要注意的是，最好根据上限适当剪枝，提升运算效率。
+
 ## Problem 92(Python, cost = 58.1s) ★★★
 ### Answer = 8581147
 
