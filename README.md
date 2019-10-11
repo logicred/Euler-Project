@@ -165,6 +165,11 @@ My solutions and programs on Euler Project Problem
 ## Problem 76(Python, cost = 118s) ★★
 ### Answer = 190569291
 
+## Problem 80(Python, cost = 0.176s) ★★★★★
+### Answer = 40886
+
+题目要求计算100内非完全平方数，其平方根结果的前100位数字之和的累加(实在是比较拗口)。一个很简单的想法是直接利用python不限位数的计算，然而很可惜精度不足。所以说要努力将平方根求解化归为大整数运算，采用二分搜索寻找结果。考虑到算法量级为log2(n), n = √m * 10 ^ 100, 所以实际运算复杂度还好，直接求解即可。
+
 ## Problem 87(Python, cost = 1.701s) ★★★★
 ### Answer = 109743
 
