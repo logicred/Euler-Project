@@ -78,6 +78,12 @@ My solutions and programs on Euler Project Problem
 
 首先考虑上方和左方的边结点，显然只有一条路可以走，所以标记为1；接下来考虑中间的节点，可以发现到达其路径条数为其上方和左方节点路径数之和，所以通过简单的递推就可以求解。
 
+
+## Problem 16(Python, cost < 0.001s) ★★★★★
+### Answer: 1366
+
+计算2 ^ 1000的各位数字和……没啥技巧，利用python自带的大整数计算，然后逐个数位累和即可，没啥技术含量。
+
 ## Problem 18(Python, cost = 0.017s) ★★★★★
 ### Answer: 1074
 
