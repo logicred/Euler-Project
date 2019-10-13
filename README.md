@@ -90,7 +90,7 @@ My solutions and programs on Euler Project Problem
 金字塔内寻找路径和最大的路径，采用DFS简单搜索即可得出结果。
 
 ## Problem 19(Python, cost < 0.001s) ★★★★★
-### Answer: 1074
+### Answer: 171
 
 计算20世纪内星期日的个数，一个简单的想法就是直接遍历计数，需要注意的一个问题是闰年，其他都很简单。
 
