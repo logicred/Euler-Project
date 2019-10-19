@@ -204,6 +204,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 97(Python, cost = 0.454s) ★★★★★
 ### Answer = 8739992577
 
+计算给定梅森素数的最后10位数，如果懒一些直接利用python自带的大整数运算就好，勤劳一点每次对10 ^ 10取余可以显著减少运算量，直接计算即可。
+
 ## Problem 206(Python, cost = 12.8s) ★★★
 ### Answer = 1389019170
 
