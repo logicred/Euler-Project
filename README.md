@@ -165,6 +165,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 55(Python, cost = 0.0927s) ★★★★★
 ### Answer = 249
 
+题目要求求解10000以下的Lychrel数(通过不超过50次迭代——该数和其逆序数相加，最终能得到回文数的数)，没有什么难度，简单的挨个判断过去即可。
+
 ## Problem 56(Python, cost = 0.357s) ★★★★★
 ### Answer = 972
 
