@@ -182,6 +182,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 76(Python, cost = 118s) ★★
 ### Answer = 190569291
 
+求解100能够被写成不同数字之和的方式总数，一个很自然的想法就是递归，设res(100,100)-1为结果，其中后一个100代表拆解的最大数为100，显然res(100,100) = res(100, 99) + res(100, 98) + ... + res(100, 1);对于res(100, 99) = res(99, 1),而对于res(100, 2) = res(98, 2) + res(2, 1),由此就可以求解。不过速度很慢，看论坛似乎有一种递推的方法，然而并没有看懂，还望大佬教我ORZ。
+
 ## Problem 80(Python, cost = 0.176s) ★★★★★
 ### Answer = 40886
 
