@@ -128,6 +128,11 @@ My solutions and programs on Euler Project Problem
 
 问题也即求解不定方程:x1 + 2x2 + 5x3 + 10x4 + 20x5 + 50x6 + 100x7 = 200 的整数解，简单想法用贪心/递归都可以实现。
 
+## Problem 33(Python, cost = 0.019s) ★★★★★
+### Answer: 100
+
+遍历所有数即可。
+
 ## Problem 35(Python, cost = 8.84s) ★★★★
 ### Answer: 55
 
