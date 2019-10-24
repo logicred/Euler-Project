@@ -184,6 +184,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 69(Python, cost < 0.001s) ★★★★★
 ### Answer = 510510
 
+求解当n ≤ 1000000时使得n/φ(n)最大的n,根据欧拉函数的性质，我们可以得出n/φ(n) = Π(p / (p - 1)),显然p越小时p / (p - 1)越大，所以只要选取尽可能小的p连乘即可，也即求最大的n = 2 * 3 * 5 * 7 * ... * p <= 1000000(p为质数)，很容易求解。
+
 ## Problem 76(Python, cost = 118s) ★★
 ### Answer = 190569291
 
