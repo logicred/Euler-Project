@@ -219,6 +219,11 @@ My solutions and programs on Euler Project Problem
 
 计算给定梅森素数的最后10位数，如果懒一些直接利用python自带的大整数运算就好，勤劳一点每次对10 ^ 10取余可以显著减少运算量，直接计算即可。
 
+## Problem 145(Python, cost = 254.4s) ★★
+### Answer = 608720
+
+无他，穷举耳。（但是可以证明一个九位数不可能是符合该条件的，所以搜索范围压缩到10 ^ 8）
+
 ## Problem 206(Python, cost = 12.8s) ★★★
 ### Answer = 1389019170
 
