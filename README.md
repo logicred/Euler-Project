@@ -181,6 +181,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 63(Python, cost < 0.001s) ★★★★★
 ### Answer = 49
 
+计算有多少组(a, N)满足这样的条件：其N次幂为N位数。首先考虑这个问题的边界：10 ^ (N - 1) <= a ^ N < 10 ^ N, 显然a < 10且(N - 1) / N <= lg a,在这样的条件下穷举很快就可以得出结果。 
+
 ## Problem 69(Python, cost < 0.001s) ★★★★★
 ### Answer = 510510
 
