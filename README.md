@@ -178,6 +178,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 62(Python, cost = 9.65s) ★★★★
 ### Answer = 127035954683
 
+计算这样一个数：它各数位上的数字形成的排列组合中，恰好有5个数是完全立方数。一个简单的想法就是从立方根入手，一个个遍历，并且保存对应立方的数值进行比较即可。
+
 ## Problem 63(Python, cost < 0.001s) ★★★★★
 ### Answer = 49
 
