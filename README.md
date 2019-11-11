@@ -142,6 +142,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 44(Python, cost = 38.7s) ★★★
 ### Answer: 5482660
 
+题目要求寻找形如M = N * (3 * N - 1) / 2的正整数PI和PJ，使得|PI - PJ|也满足以上形式，而且|PI - PJ|最小。显然直接搜索就可以，需要注意的是当求出差值验证时，只需要验证下一个|PI-PI-1|即可。
+
 ## Problem 45(Python, cost = 0.056s) ★★★★★
 ### Answer: 1533776805
 
