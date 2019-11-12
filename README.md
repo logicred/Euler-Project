@@ -139,6 +139,8 @@ My solutions and programs on Euler Project Problem
 ## Problem 38(Python, cost = 0.0638s) ★★★★★
 ### Answer: 932718654
 
+遍历即可……没啥好说的
+
 ## Problem 44(Python, cost = 38.7s) ★★★
 ### Answer: 5482660
 
