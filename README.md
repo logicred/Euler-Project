@@ -108,6 +108,11 @@ My solutions and programs on Euler Project Problem
 
 输入文件，统计每个名字根据题设所得分数，最后累和即可
 
+## Problem 26(Python, cost = 0.323s) ★★★★★
+### Answer: 983
+
+题目要求1000以内使得倒数的循环节最长的正整数。这道题可以用KMP算法求解，但是由数论的结论可以得知b进制下循环节长度为$ord_u b$(u为分母与b互质的最大因子),而整数的阶$ord_u b$是使得$b^x = 1 (mod u)$最小的正整数x，穷举都行。
+
 ## Problem 27(Python, cost = 0.873s) ★★★★★
 ### Answer: -59231
 
