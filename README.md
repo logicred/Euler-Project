@@ -194,6 +194,11 @@ My solutions and programs on Euler Project Problem
 
 计算有多少组(a, N)满足这样的条件：其N次幂为N位数。首先考虑这个问题的边界：10 ^ (N - 1) <= a ^ N < 10 ^ N, 显然a < 10且(N - 1) / N <= lg a,在这样的条件下穷举很快就可以得出结果。 
 
+## Problem 65(Python, cost < 0.001s) ★★★★★
+### Answer = 272
+
+计算e的连分数近似式第100项分母各位数字之和，根据递推就可以得到相应分子分母，直接加和就可。
+
 ## Problem 69(Python, cost < 0.001s) ★★★★★
 ### Answer = 510510
 
