@@ -146,6 +146,11 @@ My solutions and programs on Euler Project Problem
 
 遍历即可……没啥好说的
 
+## Problem 42(Python, cost = 0.007s) ★★★★★
+### Answer: 162
+
+文件I/O，统计TXT中，满足特定规则的单词数。没什么难点，直接遍历就可以。
+
 ## Problem 44(Python, cost = 38.7s) ★★★
 ### Answer: 5482660
 
