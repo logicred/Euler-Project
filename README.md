@@ -247,6 +247,11 @@ My solutions and programs on Euler Project Problem
 
 计算给定梅森素数的最后10位数，如果懒一些直接利用python自带的大整数运算就好，勤劳一点每次对10 ^ 10取余可以显著减少运算量，直接计算即可。
 
+## Problem 99(Python, cost = 0.003s) ★★★★★
+### Answer = 709
+
+计算一组底数和指数给定的数据中，哪一行拥有最大的数值。只需要读入数据，将其取对数，就可以进行直接比较。
+
 ## Problem 104(Python, cost = 15.9s) ★★★
 ### Answer = 329468
 
