@@ -242,6 +242,11 @@ My solutions and programs on Euler Project Problem
 
 一个迭代过程，事实证明最后总会落入1或89的无限循环中，需要计算的是10000000以下最终会落入89的数。一个简单的思路就是沿着迭代过程去找，为了避免迭代造成爆栈，最好用个List记录一下，也能提高运行速度。
 
+## Problem 94(Python, cost = ?) ?
+### Answer = ?
+
+?
+
 ## Problem 97(Python, cost = 0.454s) ★★★★★
 ### Answer = 8739992577
 
